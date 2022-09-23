@@ -1,0 +1,6 @@
+{
+  "Countries": [{"name":{"common":"Finland"},"capital":["Helsinki"],"area":"111","languages":["Fin","Swe"]},
+              {"name":{"common":"Japan"},"capital":["Tokyo"],"area":"222","languages":["Jap"]}],
+  "Helsinki": {"weather": [{"icon": "50d"}],"main": {"temp": 1278.62},"wind": {"speed": 10000}},
+  "Tokyo": {"weather": [{"icon": "02d"}],"main": {"temp": 78.62},"wind": {"speed": -1234}}
+}
